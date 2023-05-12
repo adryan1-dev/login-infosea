@@ -99,3 +99,17 @@ main a{
     border: 2px solid var(--cor3);
 }
 
+main input{
+    background-color: var(--cor1);
+    border: none;
+    outline: none;
+}
+
+main input:focus{
+    color: white;
+    opacity: 1;
+}
+
+main a{
+    text-align: right;
+}
