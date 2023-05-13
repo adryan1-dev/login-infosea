@@ -19,7 +19,7 @@
 }
 
 body {
-  background-image: url("/imagens/background.jpg");
+  background-image: url("../imagens/background.jpg");
   backdrop-filter: blur(4px);
   background-size: cover;
   background-attachment: fixed;
